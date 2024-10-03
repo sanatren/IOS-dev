@@ -7,24 +7,24 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		B4A90C212CAC74AC00973E02 /* I am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B4DCF82A2CAECE1900E28E7D /* I am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		B4A90C332CAC74AD00973E02 /* Exceptions for "I am Rich" folder in "I am Rich" target */ = {
+		B4DCF83C2CAECE1A00E28E7D /* Exceptions for "I am Rich" folder in "I am Rich" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = B4A90C202CAC74AC00973E02 /* I am Rich */;
+			target = B4DCF8292CAECE1900E28E7D /* I am Rich */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		B4A90C232CAC74AC00973E02 /* I am Rich */ = {
+		B4DCF82C2CAECE1900E28E7D /* I am Rich */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				B4A90C332CAC74AD00973E02 /* Exceptions for "I am Rich" folder in "I am Rich" target */,
+				B4DCF83C2CAECE1A00E28E7D /* Exceptions for "I am Rich" folder in "I am Rich" target */,
 			);
 			path = "I am Rich";
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		B4A90C1E2CAC74AC00973E02 /* Frameworks */ = {
+		B4DCF8272CAECE1900E28E7D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		B4A90C182CAC74AC00973E02 = {
+		B4DCF8212CAECE1900E28E7D = {
 			isa = PBXGroup;
 			children = (
-				B4A90C232CAC74AC00973E02 /* I am Rich */,
-				B4A90C222CAC74AC00973E02 /* Products */,
+				B4DCF82C2CAECE1900E28E7D /* I am Rich */,
+				B4DCF82B2CAECE1900E28E7D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		B4A90C222CAC74AC00973E02 /* Products */ = {
+		B4DCF82B2CAECE1900E28E7D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B4A90C212CAC74AC00973E02 /* I am Rich.app */,
+				B4DCF82A2CAECE1900E28E7D /* I am Rich.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B4A90C202CAC74AC00973E02 /* I am Rich */ = {
+		B4DCF8292CAECE1900E28E7D /* I am Rich */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B4A90C342CAC74AD00973E02 /* Build configuration list for PBXNativeTarget "I am Rich" */;
+			buildConfigurationList = B4DCF83D2CAECE1A00E28E7D /* Build configuration list for PBXNativeTarget "I am Rich" */;
 			buildPhases = (
-				B4A90C1D2CAC74AC00973E02 /* Sources */,
-				B4A90C1E2CAC74AC00973E02 /* Frameworks */,
-				B4A90C1F2CAC74AC00973E02 /* Resources */,
+				B4DCF8262CAECE1900E28E7D /* Sources */,
+				B4DCF8272CAECE1900E28E7D /* Frameworks */,
+				B4DCF8282CAECE1900E28E7D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				B4A90C232CAC74AC00973E02 /* I am Rich */,
+				B4DCF82C2CAECE1900E28E7D /* I am Rich */,
 			);
 			name = "I am Rich";
 			packageProductDependencies = (
 			);
 			productName = "I am Rich";
-			productReference = B4A90C212CAC74AC00973E02 /* I am Rich.app */;
+			productReference = B4DCF82A2CAECE1900E28E7D /* I am Rich.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		B4A90C192CAC74AC00973E02 /* Project object */ = {
+		B4DCF8222CAECE1900E28E7D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					B4A90C202CAC74AC00973E02 = {
+					B4DCF8292CAECE1900E28E7D = {
 						CreatedOnToolsVersion = 16.0;
 					};
 				};
 			};
-			buildConfigurationList = B4A90C1C2CAC74AC00973E02 /* Build configuration list for PBXProject "I am Rich" */;
+			buildConfigurationList = B4DCF8252CAECE1900E28E7D /* Build configuration list for PBXProject "I am Rich" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = B4A90C182CAC74AC00973E02;
+			mainGroup = B4DCF8212CAECE1900E28E7D;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = B4A90C222CAC74AC00973E02 /* Products */;
+			productRefGroup = B4DCF82B2CAECE1900E28E7D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B4A90C202CAC74AC00973E02 /* I am Rich */,
+				B4DCF8292CAECE1900E28E7D /* I am Rich */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		B4A90C1F2CAC74AC00973E02 /* Resources */ = {
+		B4DCF8282CAECE1900E28E7D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		B4A90C1D2CAC74AC00973E02 /* Sources */ = {
+		B4DCF8262CAECE1900E28E7D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		B4A90C352CAC74AD00973E02 /* Debug */ = {
+		B4DCF83E2CAECE1A00E28E7D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -147,14 +147,11 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "I am Rich/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "I am Rich";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -168,7 +165,7 @@
 			};
 			name = Debug;
 		};
-		B4A90C362CAC74AD00973E02 /* Release */ = {
+		B4DCF83F2CAECE1A00E28E7D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -177,14 +174,11 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "I am Rich/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "I am Rich";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -198,7 +192,7 @@
 			};
 			name = Release;
 		};
-		B4A90C372CAC74AD00973E02 /* Debug */ = {
+		B4DCF8402CAECE1A00E28E7D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -261,7 +255,7 @@
 			};
 			name = Debug;
 		};
-		B4A90C382CAC74AD00973E02 /* Release */ = {
+		B4DCF8412CAECE1A00E28E7D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -320,25 +314,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B4A90C1C2CAC74AC00973E02 /* Build configuration list for PBXProject "I am Rich" */ = {
+		B4DCF8252CAECE1900E28E7D /* Build configuration list for PBXProject "I am Rich" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B4A90C372CAC74AD00973E02 /* Debug */,
-				B4A90C382CAC74AD00973E02 /* Release */,
+				B4DCF8402CAECE1A00E28E7D /* Debug */,
+				B4DCF8412CAECE1A00E28E7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B4A90C342CAC74AD00973E02 /* Build configuration list for PBXNativeTarget "I am Rich" */ = {
+		B4DCF83D2CAECE1A00E28E7D /* Build configuration list for PBXNativeTarget "I am Rich" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B4A90C352CAC74AD00973E02 /* Debug */,
-				B4A90C362CAC74AD00973E02 /* Release */,
+				B4DCF83E2CAECE1A00E28E7D /* Debug */,
+				B4DCF83F2CAECE1A00E28E7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = B4A90C192CAC74AC00973E02 /* Project object */;
+	rootObject = B4DCF8222CAECE1900E28E7D /* Project object */;
 }

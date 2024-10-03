@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  I am Rich
 //
-//  Created by Sanatan khemariya on 01/10/24.
+//  Created by Sanatan khemariya on 03/10/24.
 //
 
 import UIKit
